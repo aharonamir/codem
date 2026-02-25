@@ -1,0 +1,2 @@
+[console_scripts]
+codem = codem.cli:app

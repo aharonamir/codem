@@ -1,0 +1,10 @@
+pyproject.toml
+src/codem/__init__.py
+src/codem/cli.py
+src/codem.egg-info/PKG-INFO
+src/codem.egg-info/SOURCES.txt
+src/codem.egg-info/dependency_links.txt
+src/codem.egg-info/entry_points.txt
+src/codem.egg-info/requires.txt
+src/codem.egg-info/top_level.txt
+tests/test_cli.py

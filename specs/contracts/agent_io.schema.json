@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "input": {"type": "object"},
+    "output": {"type": "object"}
+  },
+  "required": ["input", "output"]
+}
